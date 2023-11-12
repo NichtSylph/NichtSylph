@@ -9,6 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=3000&pause=1000&color=AB2222&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+NichtSylph's+Github" />
 </a>
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛</p>
+<h2>(づ◡﹏◡)づ About Me (づ◡﹏◡)づ</h2>
 
 ¯\_(•᷄‎ n •́)_/¯? I’m currently working on Pretty much school projects until graduation ¯\_(•᷄‎ n •́)_/¯?
 
@@ -28,7 +29,6 @@ Gracias por pasar por aqui! <br>
 Obrigado por vir aqui! <br>
 Vielen Dank, dass Sie hierher gekommen sind! <br>
 (ﾉ^ヮ^)ﾉ*:・ﾟ✧
-
 
 <!-- Icons -->
 <p align="center">
