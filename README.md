@@ -37,9 +37,9 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,autocad,css,discord,github,html,js,instagram,linkedin,react"/><br><br>
     <img src="https://skillicons.dev/icons?i=linux,matlab,maven,mongodb,mysql,nodejs,ps,py,raspberrypi,twitter,unity,vscode,express"/>
-  </a><br><br>
-  ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br>
-</p><br><br>
+  </a>
+  <p align="center"☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽</p><br>
+</p><br>
 
 <!-- Most Used Language and Summary Card -->
 <h2 align ="center">(づ◡﹏◡)づ Stats (づ◡﹏◡)づ</h2><br>
