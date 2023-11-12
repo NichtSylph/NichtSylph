@@ -2,7 +2,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=gray&right_color=red&left_text=Visitors)
 
 <!-- Welcoming -->
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━┓
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=3000&pause=1000&color=AB2222&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+NichtSylph's+Github)](https://git.io/typing-svg)
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
