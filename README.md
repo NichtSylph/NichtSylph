@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- Most Used Language -->
 <div align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NichtSylph&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NichtSylph&theme=tokyonight" />
 </div>
 <!-- Badges -->
 <div align = "center">
