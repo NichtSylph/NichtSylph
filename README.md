@@ -80,7 +80,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 </div><br>
 
 <!-- Contributions -->
-<h2 align ="center">(づ◡﹏◡)づ My Contributions (づ◡﹏◡)づ [More to be filled!]</h2>
+<h2 align ="center">(づ◡﹏◡)づ My Contributions (づ◡﹏◡)づ [More to be Updated!]</h2>
 <img align="center" alt="Snake With Contributions" src="https://github.com/NichtSylph/NichtSylph/blob/output/github-contribution-grid-snake-dark.svg" /><br>
 
 
