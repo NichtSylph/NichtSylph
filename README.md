@@ -1,6 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=gray&right_color=red&left_text=Visitors)
 
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to;NichtSylph's+Github)](https://git.io/typing-svg)
 
 <!--
 **NichtSylph/NichtSylph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
