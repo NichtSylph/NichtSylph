@@ -19,6 +19,8 @@ A little about me: I love to play videogames/instruments [Guitar/Piano/Violin]!
 Oh and I also speak 3 languages [Spanish/English/Portuguese] and learning another! [German]
 Any questions or inquiries don't hesitate to add my discord! [NichtSylph]
 
+Any project that I upload or work on will be fully open source, feel free to use it as you please.
+
 (ﾉ^ヮ^)ﾉ*:・ﾟ✧ <br>
 Thank you for passing by!
 Gracias por pasar por aqui!
@@ -71,7 +73,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 
 <!-- Contributions -->
 <div align="center">
-<h2>My Contributions</h2>
+<h2>(づ◡﹏◡)づ My Contributions (づ◡﹏◡)づ [More to be filled!]</h2>
 <img alt="Snake With Contributions" src="https://github.com/NichtSylph/NichtSylph/blob/output/github-contribution-grid-snake-dark.svg" /><br>
 
 
