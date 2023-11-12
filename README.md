@@ -23,9 +23,9 @@ Any questions or inquiries don't hesitate to add my discord! [NichtSylph]
 Any project that I upload or work on will be fully open source, feel free to use it as you please.
 
 (ﾉ^ヮ^)ﾉ*:・ﾟ✧ <br>
-Thank you for passing by!
-Gracias por pasar por aqui!
-Obrigado por vir aqui!
+Thank you for passing by! <br>
+Gracias por pasar por aqui! <br>
+Obrigado por vir aqui! <br>
 Vielen Dank, dass Sie hierher gekommen sind! <br>
 (ﾉ^ヮ^)ﾉ*:・ﾟ✧
 
