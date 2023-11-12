@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <!-- Most Used Language -->
 https://github-readme-stats.vercel.app/api/top-langs/?username={NichtSylph}&theme={dark}
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 
 <!-- Badges -->
 <div align = "center">
