@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,autocad,css,discord,bots,github,html,js,instagram,linkedin"/>
+    <img src="https://skillicons.dev/icons?i=arduino,autocad,css,discord,github,html,js,instagram,linkedin"/>
     <img src="https://skillicons.dev/icons?i=linux,matlab,maven,mongodb,mysql,nodejs,ps,py,raspberrypi,twitter,unity,vscode,express, react"/>
   </a>
 </p>
