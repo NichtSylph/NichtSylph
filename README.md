@@ -41,7 +41,8 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 </p><br><br>
 <!-- Most Used Language and Summary Card -->
 <div align = "center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NichtSylph&theme=onedark" /><br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NichtSylph&theme=onedark" />
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NichtSylph&theme=onedark" />
 </div><br><br>
 
