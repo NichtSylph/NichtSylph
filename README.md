@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Most Used Language -->
-https://github-readme-stats.vercel.app/api/top-langs/?username=NichtSylph&theme=dark
-
+https://github-readme-stats.vercel.app/api/top-langs/?username={NichtSylph}&theme={dark}
 <!-- Badges -->
 <div align = "center">
   <a href="https://discord.gg/VnFkK7amyj">
