@@ -33,7 +33,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 <!-- Icons -->
 <p align="center">
   ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br>
-  <h2 align ="center">(づ◡﹏◡)づ Skills (づ◡﹏◡)づ</h2>
+  <h2 align ="center">(づ◡﹏◡)づ Skills (づ◡﹏◡)づ</h2><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,autocad,css,discord,github,html,js,instagram,linkedin,react"/><br><br>
     <img src="https://skillicons.dev/icons?i=linux,matlab,maven,mongodb,mysql,nodejs,ps,py,raspberrypi,twitter,unity,vscode,express"/>
@@ -42,7 +42,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 </p><br><br>
 
 <!-- Most Used Language and Summary Card -->
-<h2 align ="center">(づ◡﹏◡)づ Stats (づ◡﹏◡)づ</h2>
+<h2 align ="center">(づ◡﹏◡)づ Stats (づ◡﹏◡)づ</h2><br>
 <div align = "center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NichtSylph&theme=onedark" />
   <br><br>
@@ -79,7 +79,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 
 <!-- Contributions -->
 <h2 align ="center">(づ◡﹏◡)づ My Contributions (づ◡﹏◡)づ [More to be filled!]</h2>
-<img alt="Snake With Contributions" src="https://github.com/NichtSylph/NichtSylph/blob/output/github-contribution-grid-snake-dark.svg" /><br>
+<img align="center" alt="Snake With Contributions" src="https://github.com/NichtSylph/NichtSylph/blob/output/github-contribution-grid-snake-dark.svg" /><br>
 
 
 
