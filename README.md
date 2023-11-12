@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 <!-- Most Used Language and Summary Card -->
 <div align = "center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NichtSylph&theme=onedark" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NichtSylph&theme=onedark" /><br>>br>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NichtSylph&theme=onedark" />
+</div><br><br>
 
 <!-- Badges -->
 <div align = "center">
+  ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br>
   <a href="https://discord.gg/VnFkK7amyj">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
@@ -54,7 +55,8 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.linkedin.com/in/jsantoshurtado/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> 
+  </a><br><br><br>
+  ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br>
 </div>
 
 <!-- Contributions -->
