@@ -19,11 +19,11 @@ A little about me: I love to play videogames/instruments [Guitar/Piano/Violin]!
 Oh and I also speak 3 languages [Spanish/English/Portuguese] and learning another! [German]
 Any questions or inquiries don't hesitate to add my discord! [NichtSylph]
 
-(ﾉ^ヮ^)ﾉ*:・ﾟ✧
+(ﾉ^ヮ^)ﾉ*:・ﾟ✧ <br>
 Thank you for passing by!
 Gracias por pasar por aqui!
 Obrigado por vir aqui!
-Vielen Dank, dass Sie hierher gekommen sind!
+Vielen Dank, dass Sie hierher gekommen sind! <br>
 (ﾉ^ヮ^)ﾉ*:・ﾟ✧
 
 
