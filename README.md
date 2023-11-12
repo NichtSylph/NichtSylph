@@ -32,7 +32,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 
 <!-- Icons -->
 <p align="center">
-  ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br><br><br>
+  ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br>
   <h2 align ="center">(づ◡﹏◡)づ Skills (づ◡﹏◡)づ</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,autocad,css,discord,github,html,js,instagram,linkedin,react"/><br><br>
@@ -50,9 +50,9 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 </div><br><br>
 
 <!-- Badges -->
-<h2 align ="center">(づ◡﹏◡)づ Social (づ◡﹏◡)づ</h2>
 <div align = "center">
-  ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br><br><br>
+  ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br>
+  <h2 align ="center">(づ◡﹏◡)づ Social (づ◡﹏◡)づ</h2>
   <a href="https://discord.gg/VnFkK7amyj">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
