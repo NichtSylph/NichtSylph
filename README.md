@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <!-- Contributions -->
 <div align="center">
 <h2>My Contributions</h2><br>
-<img alt=
+<img alt="Snake With Contributions" src="https://github.com/NichtSylph/NichtSylph/blob/output/github-contribution-grid-snake-dark.svg" /><br>
 
 
 
