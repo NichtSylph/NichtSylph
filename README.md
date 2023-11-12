@@ -1,7 +1,7 @@
 <!-- Banner to be filled! -->
 
 <!-- Visitor -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07&left_color=gray&right_color=red&left_text=Visitors">
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com&left_color=gray&right_color=red&left_text=Visitors">
 
 <!-- Welcoming -->
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
