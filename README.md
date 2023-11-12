@@ -1,7 +1,7 @@
 <!-- Banner to be filled! -->
 
 <!-- Visitor -->
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com&left_color=gray&right_color=red&left_text=Visitors">
+<a algin="right" href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNichtSylph"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNichtSylph&countColor=%23f47373" /></a>
 
 <!-- Welcoming -->
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
