@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=3000&pause=1000&color=AB2222&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+NichtSylph's+Github" />
 </a>
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛</p>
-<h2 align ="center">(づ◡﹏◡)づ About Me (づ◡﹏◡)づ</h2>
+<h2 align ="center">(｡◕‿‿◕｡) About Me (｡◕‿‿◕｡)</h2>
 
 ¯\_(•᷄‎ n •́)_/¯? I’m currently working on Pretty much school projects until graduation ¯\_(•᷄‎ n •́)_/¯?
 
@@ -33,7 +33,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 <!-- Icons -->
 <p align="center">
   ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br>
-  <h2 align ="center">(づ◡﹏◡)づ Skills (づ◡﹏◡)づ</h2><br>
+  <h2 align ="center">(๑ᵕ◡ᵕ) Skills (ˆ◡ˆc)</h2><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,autocad,css,discord,github,html,js,instagram,linkedin,react"/><br><br>
     <img src="https://skillicons.dev/icons?i=linux,matlab,maven,mongodb,mysql,nodejs,ps,py,raspberrypi,twitter,unity,vscode,express"/>
@@ -42,7 +42,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 </p>
 
 <!-- Most Used Language and Summary Card -->
-<h2 align ="center">(づ◡﹏◡)づ Stats (づ◡﹏◡)づ</h2><br>
+<h2 align ="center">( ◡̀_◡́)ᕤ Stats ( ◡̀_◡́)ᕤ</h2><br>
 <div align = "center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NichtSylph&theme=onedark" />
   <br><br>
@@ -52,7 +52,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 <!-- Badges -->
 <div align = "center">
   ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br>
-  <h2 align ="center">(づ◡﹏◡)づ Social (づ◡﹏◡)づ</h2>
+  <h2 align ="center">( • ̀ω•́ )✧ Social ( • ̀ω•́ )✧</h2>
   <a href="https://discord.gg/VnFkK7amyj">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
