@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽
+<br>
 <!-- Most Used Language and Summary Card -->
 <div align = "center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NichtSylph&theme=onedark" /><br>
