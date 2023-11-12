@@ -25,25 +25,25 @@ Here are some ideas to get you started:
 
 <!-- Badges -->
 <div align = "center">
-  <a href="">
+  <a href="https://discord.gg/VnFkK7amyj">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:NichtSylph@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.twitch.tv/NichtSylph">
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.youtube.com/channel/UCdwF25qJlGYOLgolzCdYfpg">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.instagram.com/nichtsylph/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://twitter.com/NichtSylph">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/jsantoshurtado/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
