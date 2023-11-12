@@ -15,11 +15,23 @@
 
 ･°˖✧◝(⁰▿⁰)◜✧˖° Always looking to learn more.
 
+A little about me: I love to play videogames/instruments [Guitar/Piano/Violin]!
+Oh and I also speak 3 languages [Spanish/English/Portuguese] and learning another! [German]
+Any questions or inquiries don't hesitate to add my discord! [NichtSylph]
+
+(ﾉ^ヮ^)ﾉ*:・ﾟ✧
+Thank you for passing by!
+Gracias por pasar por aqui!
+Obrigado por vir aqui!
+Vielen Dank, dass Sie hierher gekommen sind!
+(ﾉ^ヮ^)ﾉ*:・ﾟ✧
+
+
 <!-- Icons -->
 <p align="center">
   ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,autocad,css,discord,github,html,js,instagram,linkedin,react"/>
+    <img src="https://skillicons.dev/icons?i=arduino,autocad,css,discord,github,html,js,instagram,linkedin,react"/><br><br>
     <img src="https://skillicons.dev/icons?i=linux,matlab,maven,mongodb,mysql,nodejs,ps,py,raspberrypi,twitter,unity,vscode,express"/>
   </a><br><br>
   ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br>
