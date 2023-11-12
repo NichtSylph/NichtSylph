@@ -37,8 +37,8 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,autocad,css,discord,github,html,js,instagram,linkedin,react"/><br><br>
     <img src="https://skillicons.dev/icons?i=linux,matlab,maven,mongodb,mysql,nodejs,ps,py,raspberrypi,twitter,unity,vscode,express"/>
-  </a>
-  <p align="center">☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽</p><br>
+  </a><br>
+  <p align="center">☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽</p>
 </p>
 
 <!-- Most Used Language and Summary Card -->
@@ -52,7 +52,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 <!-- Badges -->
 <div align = "center">
   ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br>
-  <h2 align ="center">( • ̀ω•́ )✧ Social ( • ̀ω•́ )✧</h2>
+  <h2 align ="center">( • ̀ω•́ )✧ Social ( • ̀ω•́ )✧</h2><br><br>
   <a href="https://discord.gg/VnFkK7amyj">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
