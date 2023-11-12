@@ -39,7 +39,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
     <img src="https://skillicons.dev/icons?i=linux,matlab,maven,mongodb,mysql,nodejs,ps,py,raspberrypi,twitter,unity,vscode,express"/>
   </a>
   <p align="center">☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽</p><br>
-</p><br>
+</p>
 
 <!-- Most Used Language and Summary Card -->
 <h2 align ="center">(づ◡﹏◡)づ Stats (づ◡﹏◡)づ</h2><br>
