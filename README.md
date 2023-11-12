@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <div align = "center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NichtSylph&theme=onedark" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NichtSylph&theme=onedark" />
-  
-</div>
+</div><br>
+
 <!-- Badges -->
 <div align = "center">
   <a href="https://discord.gg/VnFkK7amyj">
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.linkedin.com/in/jsantoshurtado/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  </a> 
 </div>
 
 
