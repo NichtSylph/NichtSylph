@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <!-- Most Used Language and Summary Card -->
 <div align = "center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NichtSylph&theme=onedark" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NichtSylph&theme=onedark" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NichtSylph&theme=onedark" />
-<p></p>
+  
 </div>
 <!-- Badges -->
 <div align = "center">
