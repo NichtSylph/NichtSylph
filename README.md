@@ -1,8 +1,9 @@
-<!-- Banner -->
-##
+<!-- Banner to be filled! -->
 
 <!-- Visitor -->
+<p align="left">
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=gray&right_color=red&left_text=Visitors)
+</p>
 
 <!-- Welcoming -->
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
