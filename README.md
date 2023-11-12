@@ -1,6 +1,6 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=gray&right_color=red&left_text=Visitors)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=AB0000&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+NichtSylph's+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=3000&pause=1000&color=AB2222&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+NichtSylph's+Github)](https://git.io/typing-svg)
 
 <!--
 **NichtSylph/NichtSylph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
