@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=3000&pause=1000&color=AB2222&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+NichtSylph's+Github" />
 </a>
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛</p>
-<h2>(づ◡﹏◡)づ About Me (づ◡﹏◡)づ</h2>
+<h2 align ="center">(づ◡﹏◡)づ About Me (づ◡﹏◡)づ</h2>
 
 ¯\_(•᷄‎ n •́)_/¯? I’m currently working on Pretty much school projects until graduation ¯\_(•᷄‎ n •́)_/¯?
 
@@ -31,6 +31,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 (ﾉ^ヮ^)ﾉ*:・ﾟ✧
 
 <!-- Icons -->
+<h2 align ="center">(づ◡﹏◡)づ Skills (づ◡﹏◡)づ</h2>
 <p align="center">
   ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br><br><br>
   <a href="https://skillicons.dev">
@@ -39,7 +40,9 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
   </a><br><br>
   ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br>
 </p><br><br>
+
 <!-- Most Used Language and Summary Card -->
+<h2 align ="center">(づ◡﹏◡)づ Stats (づ◡﹏◡)づ</h2>
 <div align = "center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NichtSylph&theme=onedark" />
   <br><br>
@@ -47,6 +50,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 </div><br><br>
 
 <!-- Badges -->
+<h2 align ="center">(づ◡﹏◡)づ Social (づ◡﹏◡)づ</h2>
 <div align = "center">
   ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br><br><br>
   <a href="https://discord.gg/VnFkK7amyj">
@@ -74,9 +78,9 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 </div><br>
 
 <!-- Contributions -->
-<div align="center">
-<h2>(づ◡﹏◡)づ My Contributions (づ◡﹏◡)づ [More to be filled!]</h2>
+<h2 align ="center">(づ◡﹏◡)づ My Contributions (づ◡﹏◡)づ [More to be filled!]</h2>
 <img alt="Snake With Contributions" src="https://github.com/NichtSylph/NichtSylph/blob/output/github-contribution-grid-snake-dark.svg" /><br>
+
 
 
 
