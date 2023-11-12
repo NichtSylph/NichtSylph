@@ -2,9 +2,9 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=gray&right_color=red&left_text=Visitors)
 
 <!-- Welcoming -->
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=3000&pause=1000&color=AB2222&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+NichtSylph's+Github)](https://git.io/typing-svg)
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 Here are some ideas to get you started:
 
@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!-- Icons -->
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,autocad,css,discord,github,html,js,instagram,linkedin,react"/>
     <img src="https://skillicons.dev/icons?i=linux,matlab,maven,mongodb,mysql,nodejs,ps,py,raspberrypi,twitter,unity,vscode,express"/>
   </a>
 </p>
-
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 <!-- Most Used Language and Summary Card -->
 <div align = "center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NichtSylph&theme=onedark" /><br>
