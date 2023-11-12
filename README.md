@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=5)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino, autocad, css, discord, bots, github, haskell, html, js, instagram, linkedin, linux, matlab, maven, mongodb, mysql, nodejs, ps, py, raspberrypi, twitter, unity, vscode, express, react"/>
+  </a>
+</p>
