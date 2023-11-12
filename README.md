@@ -25,10 +25,10 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=linux,matlab,maven,mongodb,mysql,nodejs,ps,py,raspberrypi,twitter,unity,vscode,express"/>
   </a><br><br>
   ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br>
-</p>
+</p><br><br>
 <!-- Most Used Language and Summary Card -->
 <div align = "center">
-  <br><br><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NichtSylph&theme=onedark" /><br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NichtSylph&theme=onedark" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NichtSylph&theme=onedark" />
 </div><br><br>
 
