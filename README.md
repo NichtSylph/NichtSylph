@@ -31,9 +31,9 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 (ﾉ^ヮ^)ﾉ*:・ﾟ✧
 
 <!-- Icons -->
-<h2 align ="center">(づ◡﹏◡)づ Skills (づ◡﹏◡)づ</h2>
 <p align="center">
   ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br><br><br>
+  <h2 align ="center">(づ◡﹏◡)づ Skills (づ◡﹏◡)づ</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,autocad,css,discord,github,html,js,instagram,linkedin,react"/><br><br>
     <img src="https://skillicons.dev/icons?i=linux,matlab,maven,mongodb,mysql,nodejs,ps,py,raspberrypi,twitter,unity,vscode,express"/>
