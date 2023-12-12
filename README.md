@@ -4,11 +4,9 @@
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNichtSylph"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNichtSylph&countColor=%23f47373" /></a><br>
 
 <!-- Welcoming -->
-<p align="center"> ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 <a href="https://git.io/typing.svg">
 <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=3000&pause=1000&color=AB2222&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+NichtSylph's+Github" />
-</a>
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━°⌜ 赤い糸 ⌟°━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛</p>
+
 <h2 align ="center">(｡◕‿‿◕｡) About Me (｡◕‿‿◕｡)</h2>
 
 ¯\_(•᷄‎ n •́)_/¯? I’m currently working on Pretty much school projects until graduation ¯\_(•᷄‎ n •́)_/¯?
@@ -32,7 +30,6 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 
 <!-- Icons -->
 <p align="center">
-  ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br>
   <h2 align ="center">(๑ᵕ◡ᵕ) Skills (ˆ◡ˆc)</h2><br>
   <p align="center">
   <a href="https://skillicons.dev">
@@ -40,7 +37,6 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
     <img src="https://skillicons.dev/icons?i=linux,matlab,maven,mongodb,mysql,nodejs,ps,py,raspberrypi,twitter,unity,vscode,express"/><br><br>
   </a>
   </p>
-  <p align="center">☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽</p>
 </p>
 
 <!-- Most Used Language and Summary Card -->
@@ -53,7 +49,6 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 
 <!-- Badges -->
 <div align = "center">
-  ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽<br>
   <h2 align ="center">( • ̀ω•́ )✧ Social ( • ̀ω•́ )✧</h2><br><br>
   <a href="https://discord.gg/VnFkK7amyj">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
@@ -76,7 +71,6 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
   <a href="https://www.linkedin.com/in/jsantoshurtado/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a><br><br><br>
-  ☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽【❖】☾━━━━━━━━━━━━━☽
 </div><br>
 
 <!-- Contributions -->
