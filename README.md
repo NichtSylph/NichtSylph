@@ -4,8 +4,9 @@
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNichtSylph"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNichtSylph&countColor=%23f47373" /></a><br>
 
 <!-- Welcoming -->
+<p align="center">
 <a href="https://git.io/typing.svg">
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=3000&pause=1000&color=AB2222&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+NichtSylph's+Github" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=3000&pause=1000&color=AB2222&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+NichtSylph's+Github" /></p>
 
 <h2 align ="center">(｡◕‿‿◕｡) About Me (｡◕‿‿◕｡)</h2>
 
