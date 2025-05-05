@@ -62,7 +62,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://x.com/NichtSylph">
-<img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" height="100"/>
+<img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" height="60"/>
   </a>
 </div><br>
 <!-- Contributions -->
