@@ -61,7 +61,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
   <a href="https://www.instagram.com/nichtsylph/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
-  <a href="https://twitter.com/NichtSylph">
+  <a href="https://x.com/NichtSylph">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
 <br><br><br>
