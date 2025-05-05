@@ -46,7 +46,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 <!-- Badges -->
 <div align = "center">
   <h2 align ="center">✧ Social ✧</h2><br><br>
-  <a href="https://discord.gg/VnFkK7amyj">
+  <a href="https://discord.gg/keDFqzph9x">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:NichtSylph@gmail.com">
