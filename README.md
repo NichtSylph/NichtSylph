@@ -62,11 +62,12 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   <a href="https://x.com/NichtSylph">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
 </div><br>
 <!-- Contributions -->
 
-<h2 align ="center">My Contributions</h2>
+<h2 align ="center">✧My Contributions✧</h2>
 <img align="center" alt="Snake With Contributions" src="https://github.com/NichtSylph/NichtSylph/blob/output/github-contribution-grid-snake-dark.svg" /><br>
 
 
