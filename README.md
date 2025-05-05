@@ -8,7 +8,7 @@
 <a href="https://git.io/typing.svg">
 <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=3000&pause=1000&color=AB2222&background=FFFFFF00&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+NichtSylph's+Github" /></p>
 
-<h2 align ="center">✧About Me✧</h2>
+<h2 align ="center">✧ About Me ✧</h2>
 
 Projects will be updated more often as well as joining contributions for experience!
 
@@ -26,7 +26,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 
 <!-- Icons -->
 <p align="center">
-  <h2 align ="center">✧Skills✧</h2><br>
+  <h2 align ="center">✧ Skills ✧</h2><br>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,autocad,css,discord,github,html,js,instagram,linkedin,react"/><br><br>
@@ -36,7 +36,7 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 </p>
 
 <!-- Most Used Language and Summary Card -->
-<h2 align ="center">✧Stats✧</h2><br>
+<h2 align ="center">✧ Stats ✧</h2><br>
 <div align = "center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NichtSylph&theme=onedark" />
   <br><br>
@@ -45,27 +45,27 @@ Vielen Dank, dass Sie hierher gekommen sind! <br>
 
 <!-- Badges -->
 <div align = "center">
-  <h2 align ="center">✧Social✧</h2><br><br>
+  <h2 align ="center">✧ Social ✧</h2><br><br>
   <a href="https://discord.gg/VnFkK7amyj">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="mailto:NichtSylph@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.twitch.tv/NichtSylph">
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/channel/UCdwF25qJlGYOLgolzCdYfpg">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/nichtsylph/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://x.com/NichtSylph">
-<img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419"/>
+<img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" width="500" height="600"/>
   </a>
 </div><br>
 <!-- Contributions -->
 
-<h2 align ="center">✧My Contributions✧</h2>
+<h2 align ="center">✧ My Contributions ✧</h2>
 <img align="center" alt="Snake With Contributions" src="https://github.com/NichtSylph/NichtSylph/blob/output/github-contribution-grid-snake-dark.svg" /><br>
